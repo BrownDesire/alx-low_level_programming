@@ -33,8 +33,6 @@ while (position < size) /*while for array*/
 position++;
 }
 
-simple_print_buffer(buffer, size);
-free(buffer);
 return (0);
-
+}
 }
